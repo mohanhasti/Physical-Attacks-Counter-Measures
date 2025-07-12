@@ -1,2 +1,5 @@
 # Physical-Attacks-Counter-Measures
 Explores hardware-level security beyond software, covering non-invasive, semi-invasive, and invasive attacks, countermeasures, and hardware primitives like PUFs. Includes RF security challenges and applies high-performance programming with vectorization and parallelism for optimized implementations.
+
+Project Description:
+This project explores physical and hardware-level security beyond the software stack, focusing on the three major types of hardware attacks: non-invasive, semi-invasive, and fully-invasive. It also covers corresponding countermeasures and introduces hardware security primitives such as Physical Unclonable Functions (PUFs). Additionally, it touches on physical security challenges in the RF spectrum. The work integrates both computer science and electrical engineering principles, enhancing cross-disciplinary understanding. It also involves high-performance programming techniques, including code vectorization and parallelism, to optimize project implementations.
